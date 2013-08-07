@@ -6,7 +6,7 @@
 # ---------------------
 css/*
 img/*
-!css/.gitignore
+!css/.gitkeep
 !img/.gitkeep
 
 # GLOBAL IGNORES
